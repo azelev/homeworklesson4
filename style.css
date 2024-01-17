@@ -1,0 +1,11 @@
+td, th {
+    border: 1px solid black; /* границы каждой ячейки */
+    font-size: 24px;
+    padding: 10px;
+}
+
+
+table {
+    border-collapse: collapse; /* убирает смежные границы ячеек */
+}
+
